@@ -1,0 +1,1 @@
+Exercise L9.E1 - You are required to implement a simple symbolic equation solver. The equation should be stored in a binary tree.
